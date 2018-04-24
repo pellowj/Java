@@ -1,6 +1,7 @@
 package com.company;
 
 class PezDispenser {
+    final public int MAX_PEZ = 12;
     final private String characterName;
 
     public PezDispenser(String characterName) {
